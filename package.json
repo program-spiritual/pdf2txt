@@ -1,0 +1,27 @@
+{
+  "name": "pdf2json-test",
+  "version": "1.0.0",
+  "description": "using pdf2json node model to transfer pdf file to txt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaomiwujiecao/pdf2txt.git"
+  },
+  "keywords": [
+    "pdf",
+    "txt",
+    "json"
+  ],
+  "author": "xiaomiwujiecao",
+  "license": "MIT",
+  "dependencies": {
+    "pdf2json": "^1.1.7"
+  },
+  "bugs": {
+    "url": "https://github.com/xiaomiwujiecao/pdf2txt/issues"
+  },
+  "homepage": "https://github.com/xiaomiwujiecao/pdf2txt#readme"
+}
